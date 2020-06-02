@@ -1,4 +1,8 @@
 # adult-and-child-voice-classification
+Install dependencies by:
+
+pip install -r requirements.txt
+
 Download the dataset from this link :
 
 https://drive.google.com/drive/folders/1uMFfnpDq5F9W1n3zqRpwTYni44wvLM2o?usp=sharing

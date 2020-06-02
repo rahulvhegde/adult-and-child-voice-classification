@@ -1,0 +1,14 @@
+Avpy
+librosa
+matplotlib
+scipy
+pathlib
+tensorflow==1.15.0
+keras
+opencv-python
+numpy 
+pandas
+tqdm
+scikit-learn
+django
+easygui

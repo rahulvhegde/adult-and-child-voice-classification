@@ -11,6 +11,7 @@ Extact the zip file and paste the model.h5 in the same directory of this project
 
 to visualize in tensorboard type in your terminal:
 tensorboard --logdir=logs/
+
 ** You will have to train the model by yourself to access tensorboard.
 
 Font end is implemented using django
